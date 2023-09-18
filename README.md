@@ -4,6 +4,8 @@ welcome to my github profile!
 - 🤍 my name is hân
 - 🤍 she/her/hers
 - 🤍 w&l student (SOAN & CS major... maybe data science minor)
+- 🤍 interested in UX/UI and social analysis
+- 🤍 bad joke: what's a pirate's favorite programming language? .... R! 
 
 <!--
 **hxnhxynh/hxnhxynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
