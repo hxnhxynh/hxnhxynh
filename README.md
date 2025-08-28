@@ -1,10 +1,6 @@
-# +*:ꔫ:* hello! +*:ꔫ:*
+# +*:ꔫ:* Hello, I'm Hân! +*:ꔫ:*
+🤍 Computational Social Scientist | New W&L Grad 
+🤍 https://www.linkedin.com/in/hanhuynh98033
 
-welcome to my github profile!
-- 🤍 my name is hân
-- 🤍 she/her/hers
-- 🤍 w&l student (SOAN & CS major and data science minor)
-- 🤍 interested in (social) data analytics
-- 🤍 bad joke: what's a pirate's favorite programming language? .... R! 
 
 
